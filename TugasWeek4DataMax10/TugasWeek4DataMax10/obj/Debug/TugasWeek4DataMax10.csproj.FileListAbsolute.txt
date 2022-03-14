@@ -1,0 +1,11 @@
+C:\Users\Gwynneth Isviandhy\source\repos\TugasWeek4DataMax10\TugasWeek4DataMax10\bin\Debug\TugasWeek4DataMax10.exe.config
+C:\Users\Gwynneth Isviandhy\source\repos\TugasWeek4DataMax10\TugasWeek4DataMax10\bin\Debug\TugasWeek4DataMax10.exe
+C:\Users\Gwynneth Isviandhy\source\repos\TugasWeek4DataMax10\TugasWeek4DataMax10\bin\Debug\TugasWeek4DataMax10.pdb
+C:\Users\Gwynneth Isviandhy\source\repos\TugasWeek4DataMax10\TugasWeek4DataMax10\obj\Debug\TugasWeek4DataMax10.Form_Tampilan_Data.resources
+C:\Users\Gwynneth Isviandhy\source\repos\TugasWeek4DataMax10\TugasWeek4DataMax10\obj\Debug\TugasWeek4DataMax10.Form_Penambahan_Data.resources
+C:\Users\Gwynneth Isviandhy\source\repos\TugasWeek4DataMax10\TugasWeek4DataMax10\obj\Debug\TugasWeek4DataMax10.Properties.Resources.resources
+C:\Users\Gwynneth Isviandhy\source\repos\TugasWeek4DataMax10\TugasWeek4DataMax10\obj\Debug\TugasWeek4DataMax10.csproj.GenerateResource.cache
+C:\Users\Gwynneth Isviandhy\source\repos\TugasWeek4DataMax10\TugasWeek4DataMax10\obj\Debug\TugasWeek4DataMax10.csproj.CoreCompileInputs.cache
+C:\Users\Gwynneth Isviandhy\source\repos\TugasWeek4DataMax10\TugasWeek4DataMax10\obj\Debug\TugasWeek4DataMax10.exe
+C:\Users\Gwynneth Isviandhy\source\repos\TugasWeek4DataMax10\TugasWeek4DataMax10\obj\Debug\TugasWeek4DataMax10.pdb
+C:\Users\Gwynneth Isviandhy\source\repos\TugasWeek4DataMax10\TugasWeek4DataMax10\obj\Debug\TugasWeek4DataMax10.csproj.AssemblyReference.cache
